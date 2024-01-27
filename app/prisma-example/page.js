@@ -1,9 +1,9 @@
-import React from 'react'
-
 const PrismaExample = () => {
   return (
-    <div>PrismaExample</div>
-  )
-}
+    <div>
+      <h1 className="text-7xl">PrismaExample</h1>
+    </div>
+  );
+};
 
-export default PrismaExample
+export default PrismaExample;
